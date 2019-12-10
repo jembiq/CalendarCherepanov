@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarCherepanov</string>
+    <string name="start_btn">Дата-время старта задачи</string>
+    <string name="end_btn">Дата-время окончания задачи</string>
+    <string name="OK_btn">OK</string>
+    <string name="error">Error: wrong date</string>
+</resources>
